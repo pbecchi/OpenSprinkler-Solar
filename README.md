@@ -1,6 +1,4 @@
-domenica 23 aprile 2017
 
-12:36
 
 OPENSPRIKLER SOLAR
 
@@ -17,9 +15,9 @@ This device is fully compatible with Open Sprinkler units from
 A short description of the HW necessary to build the Solar Open Sprinkler unit
 will follow.
 
->   [galleryContent1815121937.jpg](galleryContent1815121937.jpg)
+   ![galleryContent1815121937.jpg](galleryContent1815121937.jpg)
 
-[galleryContent-1927558638.jpg](galleryContent-1927558638.jpg)
+   ![galleryContent-1927558638.jpg](galleryContent-1927558638.jpg)
 
 >   Components List
 
@@ -99,12 +97,11 @@ work with the internal clock and an NTP synchronization.
 
 SCHEMATICS
 
-[galleryContent-1927558638.png](galleryContent-1927558638.png)
+![galleryContent-1927558638.png](galleryContent-1927558638.png)
 
 SOFTWARE
 
-This project it is a branch from [Esp8266
-OpenSprinkler](http://Github.com/pbecchi/esp8266OpenSprinkler) developed to add
+This project it is a branch from [Esp8266 OpenSprinkler](http://Github.com/pbecchi/OpenESP8266_!Sprinkler) developed to add
 support to OS Bee 2.0 stations. The branch mods consist mainly on the support of
 a graphic 128x64 OLED display and the capability to operate self latching
 solenoids During this work I also added the few more functions necessary to
@@ -116,6 +113,9 @@ support the battery operations:
 
 3.  Hybernation mode control
 
-4.  Battery status log.
+4.  Battery status log. (not in this site copy!)
 
 5.  Api change to include battery relevant options and status
+
+A copy of this new OpenESP8266 Sprinkler firmware release beta has been added to this site ,
+an offocial release with comments and user manual update will be uploaded soon to OpenESP8266_Sprinkler site.
