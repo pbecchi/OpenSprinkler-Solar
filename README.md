@@ -1,4 +1,5 @@
-
+LAST FIRMWARE RELEASE CAN BE FOUND [HERE](https://github.com/pbecchi/OpenESP8266_Sprinkler/tree/ForOS_Bee2_0%2COS_Solar%2COS_3_0/OpenSprinkler_Arduino_V_2_1_6).
+The version in this directory is superseeded!!
 
 OPENSPRIKLER SOLAR
 
